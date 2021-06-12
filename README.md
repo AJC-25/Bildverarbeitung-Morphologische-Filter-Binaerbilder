@@ -1,0 +1,1 @@
+# Bildverarbeitung-Morphologische-Filter-Binaerbilder
